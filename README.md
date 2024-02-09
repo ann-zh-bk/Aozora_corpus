@@ -1,6 +1,5 @@
 # Aozora_corpus
-parsing of Japanese online library Aozora-bunko
-青空文庫のスクレイピング
+## parsing of Japanese online library Aozora-bunko   青空文庫のスクレイピング
 
 Jupiter notebook Aozora_parser_final.ipynb contains code for parsing Aozora-bunko library (https://www.aozora.gr.jp/).
 
